@@ -1,4 +1,4 @@
-Role Name
+ansible-role-vim
 =========
 
 An ansible role to install my preferred vim settings.
